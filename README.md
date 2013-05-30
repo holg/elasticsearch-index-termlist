@@ -6,7 +6,7 @@ This plugin extends Elasticsearch with a term list capability. Term lists can be
 Installation
 ------------
 
-In order to install the plugin, simply run: `bin/plugin -install jprante/elasticsearch-termlist/1.2.0`.
+In order to install the plugin, simply run: `bin/plugin -install holg/elasticsearch-termlist/1.2.0`.
 
     ---------------------------------------
     | Termlist Plugin | ElasticSearch     |
